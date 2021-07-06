@@ -4,6 +4,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@rails/actioncable": "^5.0.0",
+    "@rails/actiontext": "^6.0.2-2",
     "@rails/activestorage": "^5.0.0",
     "@rails/ujs": "^5.0.0",
     "@rails/webpacker": "5.4.0",
